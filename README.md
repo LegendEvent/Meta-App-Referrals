@@ -20,4 +20,4 @@ Welcome to the Meta-App-Referrals repository! Here you will find a curated colle
 
 ## Disclaimer
 
-[Disclaimer](#disclaimer) The referral codes in this repository are provided "as is", without warranty of any kind, express or implied. The creator of this repository assumes no responsibility for the accuracy, validity, or completeness of any information provided and will not be liable for any errors or omissions, or for the results obtained from the use of this information.
+The referral codes in this repository are provided "as is", without warranty of any kind, express or implied. The creator of this repository assumes no responsibility for the accuracy, validity, or completeness of any information provided and will not be liable for any errors or omissions, or for the results obtained from the use of this information.
