@@ -4,7 +4,7 @@ Welcome to the Meta-App-Referrals repository! Here you will find a curated colle
 
 ## Table of Contents
 - [How to Redeem the Codes](#how-to-redeem-the-codes)
-- [Virtual Desktop](#virtual-desktop)
+- [Virtual Desktop](#virtual-desktop) 
 - [Disclaimer](#disclaimer)
 
 ## How to Redeem the Codes
