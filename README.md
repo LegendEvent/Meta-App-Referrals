@@ -4,7 +4,8 @@ Welcome to the Meta-App-Referrals repository! Here you will find a curated colle
 
 ## Table of Contents
 - [How to Redeem the Codes](#how-to-redeem-the-codes)
-- [Virtual Desktop](#virtual-desktop) 
+- [Virtual Desktop](#virtual-desktop) [Direct link]((https://www.oculus.com/appreferrals/LegendEvent/2017050365004772/?utm_source=oculus&utm_location=4&utm_parent=frl&utm_medium=app_referral))
+- [Beat Saber](#beat-saber) [Direct link](https://www.oculus.com/appreferrals/LegendEvent/2448060205267927/?utm_source=oculus&utm_location=3&utm_parent=frl&utm_medium=app_referral)
 - [Disclaimer](#disclaimer)
 
 ## How to Redeem the Codes
@@ -15,8 +16,11 @@ Welcome to the Meta-App-Referrals repository! Here you will find a curated colle
 
 ## Virtual Desktop
 
-[Virtual Desktop](https://farlezz.de) is a must-have application for your Meta Quest 3. It allows you to wirelessly stream your desktop computer to your headset with low latency. Perfect for gaming, watching movies, or working in VR.
+[Virtual Desktop](https://www.oculus.com/appreferrals/LegendEvent/2017050365004772/?utm_source=oculus&utm_location=4&utm_parent=frl&utm_medium=app_referral) is a must-have application for your Meta Quest 3. It allows you to wirelessly stream your desktop computer to your headset with low latency. Perfect for gaming, watching movies, or working in VR.
 
+## Beat Saber
+
+[Beat Saber](https://www.oculus.com/appreferrals/LegendEvent/2448060205267927/?utm_source=oculus&utm_location=3&utm_parent=frl&utm_medium=app_referral) is an immersive rhythm game where you slash the beats of adrenaline-pumping music as they fly towards you, surrounded by a futuristic world. Get ready to move and be moved by the music in one of the most popular VR games.
 
 ## Disclaimer
 
