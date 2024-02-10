@@ -8,6 +8,7 @@ Welcome to the Meta-App-Referrals repository! Here you will find a curated colle
 - [Virtual Desktop](#virtual-desktop) [Direct link](https://www.oculus.com/appreferrals/LegendEvent/2017050365004772/?utm_source=oculus&utm_location=4&utm_parent=frl&utm_medium=app_referral)
 - [Beat Saber](#beat-saber) [Direct link](https://www.oculus.com/appreferrals/LegendEvent/2448060205267927/?utm_source=oculus&utm_location=3&utm_parent=frl&utm_medium=app_referral)
 - [Asgard's Wrath 2](#asgards-wrath-2) [Direct link](https://www.oculus.com/appreferrals/LegendEvent/2603836099654226/?utm_source=oculus&utm_location=4&utm_parent=frl&utm_medium=app_referral)
+- [Asgard's Wrath Rift](#asgards-wrath-rift) [Direct link](https://www.oculus.com/appreferrals/LegendEvent/1180401875303371/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral)
 - [Disclaimer](#disclaimer)
 
 ## How to Redeem the Codes
@@ -26,6 +27,9 @@ Welcome to the Meta-App-Referrals repository! Here you will find a curated colle
 
 ## Asgard's Wrath 2
 [Asgard's Wrath 2](https://www.oculus.com/appreferrals/LegendEvent/2603836099654226/?utm_source=oculus&utm_location=4&utm_parent=frl&utm_medium=app_referral) "Asgard's Wrath 2" plunges players into a mythic adventure, blending Norse mythology with exhilarating combat and immersive VR gameplay.
+
+## Asgard's Wraft Rift
+[Asgard's Wrath Rift](https://www.oculus.com/appreferrals/LegendEvent/1180401875303371/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral) Asgard's Wrath for Oculus Rift transports players into a mythical world filled with Norse gods, where they embark on epic adventures and battle formidable foes as both mortal heroes and divine powers.
 
 ## Disclaimer
 
