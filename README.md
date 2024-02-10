@@ -7,7 +7,7 @@ Welcome to the Meta-App-Referrals repository! Here you will find a curated colle
 - [Meta Quest 2/3 30$ Shop cashback](https://www.meta.com/referrals/link/LegendEvent)
 - [Virtual Desktop](#virtual-desktop) [Direct link](https://www.oculus.com/appreferrals/LegendEvent/2017050365004772/?utm_source=oculus&utm_location=4&utm_parent=frl&utm_medium=app_referral)
 - [Beat Saber](#beat-saber) [Direct link](https://www.oculus.com/appreferrals/LegendEvent/2448060205267927/?utm_source=oculus&utm_location=3&utm_parent=frl&utm_medium=app_referral)
-- [Asgard's Wrath 2](#Asgard's-Wrath-2) [Direct link](https://www.oculus.com/appreferrals/LegendEvent/2603836099654226/?utm_source=oculus&utm_location=4&utm_parent=frl&utm_medium=app_referral)
+- [Asgard's Wrath 2](#asgards-wrath-2) [Direct link](https://www.oculus.com/appreferrals/LegendEvent/2603836099654226/?utm_source=oculus&utm_location=4&utm_parent=frl&utm_medium=app_referral)
 - [Disclaimer](#disclaimer)
 
 ## How to Redeem the Codes
