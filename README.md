@@ -20,7 +20,7 @@ Welcome to the Meta-App-Referrals repository! Here you will find a curated colle
 
 ## Ghost of Tabor
 [Ghost of Tabor](https://www.oculus.com/appreferrals/LegendEvent/7614022262006379/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral)
-Ghost of Tabor is a gripping virtual reality experience that immerses players in a haunting adventure, where they explore the mysterious and ghostly ruins of Tabor, unraveling its secrets and facing supernatural forces along the way.
+In "Ghosts of Tabor" on Meta Quest, players are thrust into a hardcore VR survival world where they must outsmart both players and environment to secure resources and stay alive. Inspired by the intense gameplay of "Escape from Tarkov," this PvPvE FPS challenges your survival instincts in a virtual reality battleground.
 
 ## Virtual Desktop
 
