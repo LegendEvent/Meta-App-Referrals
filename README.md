@@ -5,6 +5,7 @@ Welcome to the Meta-App-Referrals repository! Here you will find a curated colle
 ## Table of Contents
 - [How to Redeem the Codes](#how-to-redeem-the-codes)
 - [Meta Quest 2/3 30$ Shop cashback](https://www.meta.com/referrals/link/LegendEvent)
+- [Dungeons of Eternity](#dungeons-of-eternity) [Direct link](https://www.oculus.com/appreferrals/LegendEvent/6341779295861881/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral)
 - [Ghost of Tabor](#ghost-of-tabor) [Direct link](https://www.oculus.com/appreferrals/LegendEvent/7614022262006379/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral)
 - [Virtual Desktop](#virtual-desktop) [Direct link](https://www.oculus.com/appreferrals/LegendEvent/2017050365004772/?utm_source=oculus&utm_location=4&utm_parent=frl&utm_medium=app_referral)
 - [Beat Saber](#beat-saber) [Direct link](https://www.oculus.com/appreferrals/LegendEvent/2448060205267927/?utm_source=oculus&utm_location=3&utm_parent=frl&utm_medium=app_referral)
@@ -18,17 +19,19 @@ Welcome to the Meta-App-Referrals repository! Here you will find a curated colle
 2. **Redeem the Code**: Click on the referral link. You will be redirected to the appropriate page on the Meta Quest platform.
 3. **Make Your Purchase**: Add the product to your cart and proceed to checkout.
 
+##Dungeons of Eternity
+[Dungeons of Eternity](https://www.oculus.com/appreferrals/LegendEvent/6341779295861881/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral)
+Dive into the endless depths of this captivating dungeon crawler. Experience thrilling adventures and battle legendary monsters on your quest.
+
 ## Ghost of Tabor
 [Ghost of Tabor](https://www.oculus.com/appreferrals/LegendEvent/7614022262006379/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral)
 In "Ghosts of Tabor" on Meta Quest, players are thrust into a hardcore VR survival world where they must outsmart both players and environment to secure resources and stay alive. Inspired by the intense gameplay of "Escape from Tarkov," this PvPvE FPS challenges your survival instincts in a virtual reality battleground.
 
 ## Virtual Desktop
-
 [Virtual Desktop](https://www.oculus.com/appreferrals/LegendEvent/2017050365004772/?utm_source=oculus&utm_location=4&utm_parent=frl&utm_medium=app_referral) 
 is a must-have application for your Meta Quest 3. It allows you to wirelessly stream your desktop computer to your headset with low latency. Perfect for gaming, watching movies, or working in VR.
 
 ## Beat Saber
-
 [Beat Saber](https://www.oculus.com/appreferrals/LegendEvent/2448060205267927/?utm_source=oculus&utm_location=3&utm_parent=frl&utm_medium=app_referral) 
 is an immersive rhythm game where you slash the beats of adrenaline-pumping music as they fly towards you, surrounded by a futuristic world. Get ready to move and be moved by the music in one of the most popular VR games.
 
@@ -41,5 +44,4 @@ is an immersive rhythm game where you slash the beats of adrenaline-pumping musi
 Asgard's Wrath for Oculus Rift transports players into a mythical world filled with Norse gods, where they embark on epic adventures and battle formidable foes as both mortal heroes and divine powers.
 
 ## Disclaimer
-
 The referral codes in this repository are provided "as is", without warranty of any kind, express or implied. The creator of this repository assumes no responsibility for the accuracy, validity, or completeness of any information provided and will not be liable for any errors or omissions, or for the results obtained from the use of this information.
