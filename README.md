@@ -5,6 +5,7 @@ Welcome to the Meta-App-Referrals repository! Here you will find a curated colle
 ## Table of Contents
 - [How to Redeem the Codes](#how-to-redeem-the-codes)
 - [Meta Quest 2/3 30$ Shop cashback](https://www.meta.com/referrals/link/LegendEvent)
+- [Pavlov Shack](#pavlov-shack) [Direct link](https://www.oculus.com/appreferrals/LegendEvent/2443267419018232/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral)
 - [Dungeons of Eternity](#dungeons-of-eternity) [Direct link](https://www.oculus.com/appreferrals/LegendEvent/6341779295861881/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral)
 - [Ghost of Tabor](#ghost-of-tabor) [Direct link](https://www.oculus.com/appreferrals/LegendEvent/7614022262006379/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral)
 - [Virtual Desktop](#virtual-desktop) [Direct link](https://www.oculus.com/appreferrals/LegendEvent/2017050365004772/?utm_source=oculus&utm_location=4&utm_parent=frl&utm_medium=app_referral)
@@ -19,6 +20,9 @@ Welcome to the Meta-App-Referrals repository! Here you will find a curated colle
 2. **Redeem the Code**: Click on the referral link. You will be redirected to the appropriate page on the Meta Quest platform.
 3. **Make Your Purchase**: Add the product to your cart and proceed to checkout.
 
+## Pavlov Shack
+[Pavlov  Shack](https://www.oculus.com/appreferrals/LegendEvent/2443267419018232/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral)
+Pavlov Shack is a fast-paced multiplayer virtual reality shooter that offers intense gunplay and realistic weapon mechanics, making it a favorite among VR gaming enthusiasts for its immersive gameplay and community-driven content.
 ## Dungeons of Eternity
 [Dungeons of Eternity](https://www.oculus.com/appreferrals/LegendEvent/6341779295861881/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral)
 Dive into the endless depths of this captivating dungeon crawler. Experience thrilling adventures and battle legendary monsters on your quest.
